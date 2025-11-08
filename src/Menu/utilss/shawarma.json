@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/b5cce774-b3d6-4e7d-88f2-b860a31db655_68326.JPG",
+      "name": "Classic Chicken Shawarma",
+      "price": 7.99,
+      "place": "Mediterranean Grill",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/9/7a479931-8720-4ba7-94be-e13c15371109_1a7c88a5-000f-426c-8785-588b15d6a150.jpg",
+      "name": "Beef Shawarma Plate",
+      "price": 9.50,
+      "place": "Istanbul Delights",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0ee0a5ff8ecf94e6a8d612eb4e21347",
+      "name": "Lamb Shawarma Wrap",
+      "price": 8.75,
+      "place": "Arabian Nights",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/11/20/584742e2-167f-403a-ae58-dabcf9054b6d_766b787f-ba1e-4293-9392-704832100693.jpg",
+      "name": "Spicy Garlic Shawarma",
+      "price": 8.25,
+      "place": "Spice Route",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cde5d03a00a106264d386ac58fdc9b35",
+      "name": "Mixed Shawarma Platter",
+      "price": 12.99,
+      "place": "Shawarma Palace",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/18/982f838f-b17a-4b35-9df3-8459fbbe42f0_64c1be37-00c7-4b6a-9d66-a39bff8aa7d8.jpeg",
+      "name": "Falafel Shawarma",
+      "price": 7.50,
+      "place": "Vegetarian Oasis",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/9/981df1ac-165b-401b-9d4c-f7530af7c7db_c5934832-23c3-40c5-b19f-4e57792e2ea2.jpg",
+      "name": "Turkish Doner Shawarma",
+      "price": 9.25,
+      "place": "Ankara Grill",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/7/13/c22f4a84-e1cc-4b87-b7d9-61f91fbf0f3c_31fda35d-f65f-4d4b-89b3-c951060cd9d2.jpg",
+      "name": "Extra Tahini Shawarma",
+      "price": 8.75,
+      "place": "Tahini House",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/7/24/7fbf2b2b-96c3-45c8-afc4-6a0212ea7e8e_8db01d78-6ead-45f6-98ea-4913adef6e0b.png_compressed",
+      "name": "Hot & Spicy Shawarma",
+      "price": 8.45,
+      "place": "Flame Grill",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/3/dff3921c-7517-4a51-bf6a-b1e5f61c11cc_793791e9-c232-4032-8f0b-57265e65e92f.jpg",
+      "name": "Family Shawarma Pack",
+      "price": 24.99,
+      "place": "Family Feast",
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/13ea364cc550f431bfc41bf0fc1a9dfa",
+      "name": "Lebanese Style Shawarma",
+      "price": 9.99,
+      "place": "Beirut Bites",
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/aryff5ulnhgxad6jf9w7",
+      "name": "Cheese Shawarma Wrap",
+      "price": 8.95,
+      "place": "Cheesy Delight",
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ee42df7c199d3a820e185183f0045192",
+      "name": "Supreme Shawarma Bowl",
+      "price": 10.50,
+      "place": "Healthy Bowls",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cz2jmortfionkhut5qqn",
+      "name": "Extra Hummus Shawarma",
+      "price": 9.25,
+      "place": "Hummus Heaven",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/9/4/fce0a476-ae2d-46ff-9701-55ada222e524_ee54ecf6-ce84-40b1-a4d5-326840920ed4.jpeg",
+      "name": "Garlic Sauce Shawarma",
+      "price": 8.65,
+      "place": "Garlic Lovers",
+      "rating": 4.5
+    },
+    {
+      "id": 16,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c583ca6ce40b426797a78ae2ac91f2ec",
+      "name": "Premium Lamb Shawarma",
+      "price": 11.75,
+      "place": "Premium Grill",
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kqeheqdmfayll30u6ftg",
+      "name": "Chicken & Fries Shawarma",
+      "price": 9.45,
+      "place": "Combo King",
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/09442ac69546609cf5e46faaac223bd1",
+      "name": "Traditional Arabic Shawarma",
+      "price": 10.25,
+      "place": "Arabian Flavors",
+      "rating": 4.9
+    },
+    {
+      "id": 19,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/3/9/a3e6d9a9-3f47-4e55-a052-66a6c343c1b4_b5be3f2f-d813-4840-b34f-8a427710093f.jpg",
+      "name": "Pickled Veggie Shawarma",
+      "price": 8.35,
+      "place": "Tangy Twist",
+      "rating": 4.3
+    },
+    {
+      "id": 20,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/8/5/1aea13d4-467d-463d-96e9-a97da82552ed_ab007081-5fb4-4b81-93f3-446a746ed855.png",
+      "name": "Deluxe Shawarma Feast",
+      "price": 15.99,
+      "place": "Feast Palace",
+      "rating": 4.8
+    }
+]

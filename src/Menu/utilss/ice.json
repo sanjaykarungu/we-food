@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/7/24/d2b1cc8f-369a-419a-b0ea-9fe395b083d2_1295.JPG",
+      "name": "Vanilla Bean",
+      "price": 4.99,
+      "place": "Creamy Delights",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/6/25/2971c750-63f2-44e9-977b-803b49e1a723_d3bd3b06-9e10-4919-a162-d80eae21925e.jpeg",
+      "name": "Chocolate Fudge Brownie",
+      "price": 5.49,
+      "place": "Scoop Heaven",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/7/8/dbc97475-56f4-4599-b0cd-01fd2e2f8e20_111504.JPG",
+      "name": "Strawberry Swirl",
+      "price": 4.75,
+      "place": "Berry Frozen Yogurt",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/15b01e5b-1350-4cfb-a162-fdd0a0d6aff4_505763.JPG",
+      "name": "Mint Chocolate Chip",
+      "price": 5.25,
+      "place": "Frosty Cones",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/4/0d1eb849-caa2-474d-8533-3b9ef66104a3_744fa221-a544-4f03-aeb3-86cdc6d3a5d3.jpg",
+      "name": "Cookies and Cream",
+      "price": 5.75,
+      "place": "Sweet Scoops",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/26/cd083787-58ac-4aa1-b3b8-4533769a057a_4439a264-dcd2-47f8-843a-8d96e7091486.jpg",
+      "name": "Rocky Road",
+      "price": 5.99,
+      "place": "Mountain Ice Cream",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/12/73bc002c-246f-4908-84ed-907ca186dbab_49848bb5-85dd-410a-a238-52c46380f4b7.jpg",
+      "name": "Butter Pecan",
+      "price": 5.50,
+      "place": "Southern Creamery",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/g3yhtouc190npxdpfbj1",
+      "name": "Coffee Toffee Crunch",
+      "price": 5.95,
+      "place": "Caffeine & Cream",
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hdi7gw8fnm3m6ygx90g5",
+      "name": "Pistachio Almond",
+      "price": 6.25,
+      "place": "Nutty Cones",
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/93fca303499882d676d8840c9a559843",
+      "name": "Salted Caramel",
+      "price": 5.65,
+      "place": "Salty Sweets",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/7/20/6b598efc-7c17-4083-8c5f-43d31ffaf556_86e84bfb-170a-4959-b372-2d9736bedcb7.jpg_compressed",
+      "name": "Rainbow Sherbet",
+      "price": 4.85,
+      "place": "Colorful Scoops",
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/20/0a76bc12-0bc0-413e-8ae6-80c29a95cc12_476fd3d2-27c4-4c97-9028-20d74d4a0709.jpg_compressed",
+      "name": "Coconut Macaroon",
+      "price": 5.80,
+      "place": "Tropical Treats",
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/7/17/323a299e-61f9-4312-beb7-c9407bddc990_90923f00-6e86-4370-996c-2b39d8aa9c1c.jpg",
+      "name": "Lemon Sorbet",
+      "price": 4.50,
+      "place": "Citrus Freeze",
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/5/28/9ef90219-9d6b-47f9-ba8a-4f611776ed2b_681293.JPG",
+      "name": "Double Chocolate Chunk",
+      "price": 6.15,
+      "place": "Chocolate Paradise",
+      "rating": 4.8
+    },
+    {
+      "id": 15,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/8/6/e9dac47d-84c5-4246-9669-61128a8efd90_2dc6c90f-f3a2-4755-9dac-d4150479ff91.jpg",
+      "name": "Peanut Butter Cup",
+      "price": 5.70,
+      "place": "Nut Butter Bliss",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tjeaiqtryys7gzbg9j6e",
+      "name": "Mango Tango",
+      "price": 5.35,
+      "place": "Fruit Fusion",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/2/ea4e506e-3bc5-40b8-952a-bf7d2bd05393_c96ac7c1-8c3f-48cf-9e61-8905b744d098.jpg",
+      "name": "Birthday Cake",
+      "price": 5.85,
+      "place": "Celebration Scoops",
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tzomkg7nti0lcgkfqkbc",
+      "name": "Maple Walnut",
+      "price": 5.95,
+      "place": "Forest Delights",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/5/7/e86ee161-7d1a-49e3-a2a7-34ac3d2fadcd_e92c19c1-4694-4f19-850c-2c7a2c59efe3.jpg_compressed",
+      "name": "Raspberry Ripple",
+      "price": 5.25,
+      "place": "Berry Blast",
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/18/ae40945e-4da6-43aa-bb83-cbb0fd75c0e1_f7a4960f-7da6-4816-b362-74a082cdba84.jpg",
+      "name": "Dulce de Leche",
+      "price": 6.05,
+      "place": "Latin Flavors",
+      "rating": 4.8
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Greek Salad",
+      "price": 180,
+      "place": "Mediterranean Delight",
+      "rating": 4.6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/4/17/48a74473-5729-4e05-a6db-2d9a47b9a93a_02b84bcf-cbf9-400d-bf15-eb724c5d1b32.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Caesar Salad",
+      "price": 220,
+      "place": "Italian Bistro",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/8/10/8bae2e4f-a106-46c4-9eb2-511489dd2aea_b1fc30da-2094-4a35-bb0c-c84950c941a7.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Quinoa Salad",
+      "price": 200,
+      "place": "Healthy Hub",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zg1evnit1mdql2wkssnl"
+    },
+    {
+      "id": 4,
+      "name": "Fruit Salad",
+      "price": 150,
+      "place": "Fresh Fruits Cafe",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e984d6d7eee5d187e338bfdc9fda7572"
+    },
+    {
+      "id": 5,
+      "name": "Waldorf Salad",
+      "price": 190,
+      "place": "Classic Cuisine",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/16/b5d8a503-ede8-4cbd-a83a-fbbefb0752c5_1c9141e6-ea44-46b4-81d7-b343a3eecbb8.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cobb Salad",
+      "price": 250,
+      "place": "American Diner",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/8/1/e51960d2-b9b3-46a4-832b-098b2190dee0_80ce4d0c-c9e5-4d5a-aab7-3f7e5cc36bd9.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Caprese Salad",
+      "price": 170,
+      "place": "Italian Bistro",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/14/fd00d872-6e93-490e-98a5-29771e9a4f04_2faaad4f-5100-4521-a475-0cfd8e5d99a8.jpeg_compressed"
+    },
+    {
+      "id": 8,
+      "name": "Thai Papaya Salad",
+      "price": 160,
+      "place": "Thai Orchid",
+      "rating": 4.6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/5/14/8109cd9c-8b4e-43b0-bc41-746792b035b7_c10d5f68-9354-46ab-9e77-3c3d9278b867.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tabbouleh Salad",
+      "price": 140,
+      "place": "Middle East Magic",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/27/05f687fd-bc09-427d-b01a-b950fc8ae289_7d04d8ca-b0b2-4186-adb3-409b215d79f7.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kale Salad",
+      "price": 210,
+      "place": "Superfood Station",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/14/e78ad4d5-e004-426c-bd8c-89f0b7240971_39961b08-97d2-41e9-9288-94aee83e6155.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Spinach Salad",
+      "price": 180,
+      "place": "Green Garden",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/11/8/ea42bd4f-13cd-4f4b-8997-e5c2f42151fe_b5fd1c5d-b449-472d-9499-e76ffce9d2f2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Salad",
+      "price": 230,
+      "place": "Protein Palace",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/8/26/f60dc9bb-a962-4c33-8018-447b676360b4_c7ffaa77-67a8-49b4-ab4e-2bec5411b465.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tuna Salad",
+      "price": 240,
+      "place": "Seafood Sensation",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/8/14/260af961-91e1-4766-9f7b-5ae928cc0232_1dca4587-35a9-421c-82a5-743436a98eee.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Potato Salad",
+      "price": 130,
+      "place": "Comfort Food Corner",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/7/19/01bea70c-97cd-4833-ab7f-3a21a6a3ee96_1730a381-dad8-42ff-80bb-11b456fecbe4.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Pasta Salad",
+      "price": 190,
+      "place": "Italian Bistro",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/11/29/23c035ac-94de-42db-8d3c-530ecf7e20e9_404f8154-d5d0-4670-8793-bd59ebccda7b.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Bean Salad",
+      "price": 150,
+      "place": "Healthy Hub",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hvwmwutdjqqvqa1rewyc"
+    },
+    {
+      "id": 17,
+      "name": "Coleslaw Salad",
+      "price": 120,
+      "place": "BBQ Junction",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/15/c1cb3ffe-6ab9-4f5d-97f2-5e62160e0f1d_c0b1e02e-0add-4a44-872f-063f57c799a6.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Avocado Salad",
+      "price": 220,
+      "place": "California Fresh",
+      "rating": 4.7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/27/ac88ecc0-c98a-4068-a563-6e4612bd3c94_2e79bdab-b025-454c-bed5-f0c15e105938.jpg_compressed"
+    },
+    {
+      "id": 19,
+      "name": "Mediterranean Salad",
+      "price": 200,
+      "place": "Mediterranean Delight",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/7/26/ead10d9d-c555-452e-86e7-4dfc7699fe23_002a3265-b776-4178-868d-47aaf58875ff.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rainbow Salad Bowl",
+      "price": 260,
+      "place": "Colorful Cuisine",
+      "rating": 4.8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/8/19/623ea388-5eda-4c30-a7c5-46f38d5fcf5f_558776.JPG"
+    }
+]

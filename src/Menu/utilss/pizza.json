@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/1/26/71ed804b-980c-4afa-b366-76759f6638a8_be8c1631-3a39-4591-8d00-daa228562354.jpg",
+      "name": "Margherita",
+      "price": 12.99,
+      "place": "Classic Pizzeria",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/11/30/a2b46f28-47de-49f2-8899-764654058d7c_1a838243-00ac-4f3d-9b64-d230cd0c5931.jpg",
+      "name": "Pepperoni",
+      "price": 14.50,
+      "place": "New York Slice",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/5/29/1f2859ba-df79-408c-a639-84bf2559ce16_68328.jpg",
+      "name": "Hawaiian",
+      "price": 15.75,
+      "place": "Tropical Pizza",
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bqmnmlkww1dwdpcgk8ob",
+      "name": "Supreme",
+      "price": 17.99,
+      "place": "Pizza Palace",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/3/13/05c09d26-839b-4306-aaa6-6d8a9c30f692_e876b374-74c6-41eb-8ac5-c80587612629.png",
+      "name": "BBQ Chicken",
+      "price": 16.50,
+      "place": "Smokehouse Pizza",
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/1/26/c7814a6a-3d55-406f-9801-40a9097c64ac_454173.jpg",
+      "name": "Veggie Delight",
+      "price": 14.25,
+      "place": "Green Garden Pizza",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/963c04ac-b813-4552-881e-30e82425521d_608605.JPG",
+      "name": "Meat Lovers",
+      "price": 18.75,
+      "place": "Carnivore's Choice",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/3/741fbac0-20f8-4cfc-b17d-1612a02ddb47_68329.jpg",
+      "name": "Four Cheese",
+      "price": 15.25,
+      "place": "Cheese Heaven",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/8/18/ad34e1bf-bf3e-420b-b276-28123610b48d_b6a591fd-a324-4437-ba9f-37cc1fbb8062.jpeg",
+      "name": "Buffalo Chicken",
+      "price": 16.99,
+      "place": "Wing & Pizza Co.",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/17/3bb07950-e6f3-499f-890d-47ae3b95908d_fe59b9f0-fba2-47b4-a11c-5224924bb017.jpg",
+      "name": "Mushroom Truffle",
+      "price": 19.50,
+      "place": "Gourmet Pizzeria",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2733a8deb8d1d6ad6cd04e9fee2e602e",
+      "name": "Spinach & Feta",
+      "price": 15.75,
+      "place": "Mediterranean Flavors",
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/412d9b7aaaa0216607c2a3c1a92a008d",
+      "name": "Sausage & Peppers",
+      "price": 16.25,
+      "place": "Italian Kitchen",
+      "rating": 4.7
+    },
+    {
+      "id": 13,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/6/14/9c70c12e-0c82-4cea-b7f6-ac7140a5eea2_69fd5cbd-194b-4488-8b53-3f317ef2fa04.jpg",
+      "name": "Bacon Ranch",
+      "price": 17.50,
+      "place": "American Grill",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/6/14/e7871edd-6f5d-40a7-8e0d-ce94fefa5ca1_eb174c4f-08e9-47df-af8b-d45b76029fa9.jpg",
+      "name": "White Pizza",
+      "price": 15.99,
+      "place": "Artisan Pizzeria",
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f1b907b0b8f86c62e4fc347c6b1434e6",
+      "name": "Seafood Supreme",
+      "price": 21.99,
+      "place": "Coastal Kitchen",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2733a8deb8d1d6ad6cd04e9fee2e602e",
+      "name": "Pesto Chicken",
+      "price": 16.75,
+      "place": "Fresh Herb Pizza",
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/a712a7cce9cace588cb2746cb96bd139",
+      "name": "Spicy Diavola",
+      "price": 16.25,
+      "place": "Fire & Spice",
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "image": "https://images.unsplash.com/photo-1595708684082-a173bb3a06c5",
+      "name": "Greek Style",
+      "price": 17.25,
+      "place": "Athens Pizza",
+      "rating": 4.7
+    },
+    {
+      "id": 19,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+      "name": "Breakfast Pizza",
+      "price": 14.99,
+      "place": "Morning Delight",
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+      "name": "Dessert Pizza",
+      "price": 13.50,
+      "place": "Sweet Tooth Pizzeria",
+      "rating": 4.6
+    }
+]

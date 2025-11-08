@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/7eb0d69d-4bde-46b5-ba00-83c7d239895a_11698.jpg",
+      "name": "Classic Cheeseburger",
+      "price": 8.99,
+      "place": "Burger Palace",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/14/7dc04c75-d8d8-4e37-ad11-dc07a59cc19b_627394.jpg",
+      "name": "Bacon Deluxe",
+      "price": 11.99,
+      "place": "Grill Masters",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/15/53f0c231-7e58-4213-acc2-7a011af0aa6a_827d80c5-4411-4045-b41c-e474e09426db.jpg",
+      "name": "Mushroom Swiss",
+      "price": 10.50,
+      "place": "The Burger Joint",
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8",
+      "name": "BBQ Ranch Burger",
+      "price": 9.75,
+      "place": "Rusty's Grill",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/1/11/120003e0-7b80-43b8-b2ea-ccb1f7ad315f_720359.JPG",
+      "name": "Double Patty Melt",
+      "price": 12.25,
+      "place": "Diner Deluxe",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
+      "name": "Avocado Turkey Burger",
+      "price": 11.25,
+      "place": "Healthy Bites",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b",
+      "name": "Spicy Jalapeño Burger",
+      "price": 9.99,
+      "place": "Heat Seekers",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/5/1fe28b93-b144-4751-9043-331ecefd3b9d_8027.jpg",
+      "name": "Blue Cheese Bacon Burger",
+      "price": 12.75,
+      "place": "Gourmet Grill",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/4/2c2cd3e7-8fde-45a8-8b35-8e653e9f00c4_edeadb43-9e48-4f0a-8dd2-ef1991dcf96c.jpg",
+      "name": "Hawaiian Teriyaki Burger",
+      "price": 10.99,
+      "place": "Island Flavors",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/11/14/7dc04c75-d8d8-4e37-ad11-dc07a59cc19b_627394.jpg",
+      "name": "Veggie Supreme",
+      "price": 8.50,
+      "place": "Green Garden",
+      "rating": 4.1
+    },
+    {
+      "id": 11,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/5e4209f6a2df230ae2f95ba6c4f53ba0",
+      "name": "Truffle Mushroom Burger",
+      "price": 15.99,
+      "place": "Luxury Bites",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/27/f90580ec-e335-4a97-a102-b6f4cfc0b341_23d1ed04-3e7e-45f8-b9b5-4478f445d36f.JPG",
+      "name": "Breakfast Burger",
+      "price": 10.25,
+      "place": "Morning Grill",
+      "rating": 4.3
+    },
+    {
+      "id": 13,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/86ed12d6b6e650fb3abcfb9e9ec9a146",
+      "name": "Chili Cheese Burger",
+      "price": 9.25,
+      "place": "Comfort Food Co.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/oojlurfpiwcgemj7xbo0",
+      "name": "Black Bean Burger",
+      "price": 8.75,
+      "place": "Vegan Vibes",
+      "rating": 4.0
+    },
+    {
+      "id": 15,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/10/24/dee50aa6-1104-41a0-a5ff-4d006db4c91c_f35b5f6d-00b7-43b3-b7cd-5339f0feb3d2.jpg",
+      "name": "Buffalo Chicken Burger",
+      "price": 9.50,
+      "place": "Wing & Burger Co.",
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/10/22/0677b1c8-cce8-4302-a4fb-b60617363164_3ac65a75-1569-4663-8593-aa298ab24c05.jpg",
+      "name": "Smoked Brisket Burger",
+      "price": 13.50,
+      "place": "Smokehouse",
+      "rating": 4.9
+    },
+    {
+      "id": 17,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/24/6623ae85-d8ea-4cd3-80d5-19288a8a4f19_467233.jpg",
+      "name": "Mac & Cheese Burger",
+      "price": 11.75,
+      "place": "Combo Kitchen",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/be074a0a5cf1f41638ed62c16d512892",
+      "name": "Greek Lamb Burger",
+      "price": 12.99,
+      "place": "Mediterranean Grill",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/0329d74f-7047-4b18-9ff8-76e8ea60124d_792282.jpg",
+      "name": "Southwest Burger",
+      "price": 9.99,
+      "place": "Desert Grill",
+      "rating": 4.2
+    },
+    {
+      "id": 20,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/4/27/668fce50-7af1-4ee4-a703-1a5a48dc656c_a6a6d0c7-8462-4871-a98c-4e5f7fe72930.jpg",
+      "name": "Triple Stack Burger",
+      "price": 14.99,
+      "place": "Big Bite",
+      "rating": 4.8
+    }
+  ]

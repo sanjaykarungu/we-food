@@ -1,0 +1,142 @@
+[
+    {
+      "name": "Lay's Classic Salted Potato Chips",
+      "image": "https://th.bing.com/th/id/OIP.rPyuwFN8IZzU4oV1w6XZoQHaHa?w=177&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.5,
+      "place": "Supermarket"
+    },
+    {
+      "name": "Kurkure Masala Munch",
+      "image": "data:image/webp;base64,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",
+      "price": 10.00,
+      "rating": 4.3,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Bingo Mad Angles! (Tangy Tomato)",
+      "image": "https://th.bing.com/th/id/OIP.dXztAQbB_ZdvkqnuDbpqUwHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.4,
+      "place": "Supermarket"
+    },
+    {
+      "name": "Haldiram's Aloo Bhujia",
+      "image": "https://th.bing.com/th/id/OIP.ZY8-8m4W2tup0FzhFRvWlwHaHa?w=182&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 45.00,
+      "rating": 4.7,
+      "place": "Sweet Shop"
+    },
+    {
+      "name": "Pringles Original",
+      "image": "https://th.bing.com/th/id/OIP.39OQTlWquZwDeroJAEklXAAAAA?w=198&h=198&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 99.00,
+      "rating": 4.6,
+      "place": "Premium Supermarket"
+    },
+    {
+      "name": "Uncle Chipps Spanish Tomato",
+      "image": "https://th.bing.com/th/id/OIP.wTjO6HhHNpzL65ls9gQbHQHaHa?w=195&h=195&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.2,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Parle Wafers Cream & Onion",
+      "image": "https://th.bing.com/th/id/OIP.KOrg6XLXWyuCS_B05nmYmAHaHa?w=185&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 10.00,
+      "rating": 4.0,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Doritos Nacho Cheese",
+      "image": "https://th.bing.com/th/id/OIP.qXyOx3xQdbOyTZ9_lPyo8gHaHa?w=192&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 50.00,
+      "rating": 4.8,
+      "place": "Multiplex Counter"
+    },
+    {
+      "name": "Haldiram's Moong Dal",
+      "image": "https://th.bing.com/th/id/OIP.FWT1xu2mgYf96W8e8L8H_AHaHa?w=181&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 40.00,
+      "rating": 4.5,
+      "place": "Sweet Shop"
+    },
+    {
+      "name": "Bikaji Bhujia",
+      "image": "https://th.bing.com/th/id/OIP.l6y832KmJZbpagiV-kN4-QHaHa?w=186&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 35.00,
+      "rating": 4.1,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Lay's India's Magic Masala",
+      "image": "https://th.bing.com/th/id/OIP.0FCD-zWq0aZYwVZQHblP3QHaHa?w=190&h=190&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.7,
+      "place": "Supermarket"
+    },
+    {
+      "name": "Kettle Brand Sea Salt Potato Chips",
+      "image": "data:image/webp;base64,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",
+      "price": 150.00,
+      "rating": 4.4,
+      "place": "Health Food Store"
+    },
+    {
+      "name": "Cheetos Crunchy",
+      "image": "https://th.bing.com/th/id/OIP.8zA3mzXuTqxUuyey20QUoQHaHa?w=196&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.3,
+      "place": "Supermarket"
+    },
+    {
+      "name": "Haldiram's Khatta Meetha",
+      "image": "https://th.bing.com/th/id/OIP.vkxEaBtjFClKvwmxVxbM7gHaHa?w=192&h=192&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 50.00,
+      "rating": 4.6,
+      "place": "Sweet Shop"
+    },
+    {
+      "name": "Popcorn (Butter Flavoured)",
+      "image": "https://th.bing.com/th/id/OIP.NSAaIN1dVvlv6LTgO6aqKwHaHa?w=196&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 30.00,
+      "rating": 4.2,
+      "place": "Multiplex Counter"
+    },
+    {
+      "name": "Balaji Wafers (Chili Lemon)",
+      "image": "https://th.bing.com/th/id/OIP.BvDyPxsYf7wVziJZ4bvV_QAAAA?w=168&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 15.00,
+      "rating": 4.5,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Tingles Onion Rings",
+      "image": "https://th.bing.com/th/id/OIP.teqwOB2S5tMHXyCYioOxfwHaHa?w=176&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 10.00,
+      "rating": 3.9,
+      "place": "Local Kirana Store"
+    },
+    {
+      "name": "Yumitos Mexican Chilli Lemon",
+      "image": "https://th.bing.com/th/id/OIP.cpxSaGWAmFXEnumCtQwpegAAAA?w=189&h=189&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.0,
+      "place": "Supermarket"
+    },
+    {
+      "name": "Haldiram's Navratan Mix",
+      "image": "https://th.bing.com/th/id/OIP.hB9GZBiB3yBci-Loy4k7CgHaKG?w=149&h=202&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 55.00,
+      "rating": 4.8,
+      "place": "Sweet Shop"
+    },
+    {
+      "name": "Lay's American Style Cream & Onion",
+      "image": "https://th.bing.com/th/id/OIP.fcJXhNe_p2DNuy1b69xavAHaHa?w=191&h=191&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+      "price": 20.00,
+      "rating": 4.5,
+      "place": "Supermarket"
+    }
+  ]

@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "price": 80,
+      "place": "Udupi Restaurant",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/3/10/48ff68a6-2b92-408a-ad22-c96c07f30228_80fff8a0-99fa-43e6-98ca-08b0734d0a50.jpg_compressed"
+    },
+    {
+      "id": 2,
+      "name": "Rava Dosa",
+      "price": 95,
+      "place": "MTR",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/8/26/02c3c534-a79d-4377-bbda-92918d8403e6_e836b9cd-8819-44de-9b75-8b52f6bd75bf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Set Dosa",
+      "price": 70,
+      "place": "Bangalore Cafe",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/822165c2ec6d0602e66548bfc59694e1"
+    },
+    {
+      "id": 4,
+      "name": "Paper Dosa",
+      "price": 85,
+      "place": "Saravana Bhavan",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/13/81275249-896e-4ac4-92a1-f15b89125cd2_70b14e89-a19b-4502-b086-71fd1eea5df1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mysore Masala Dosa",
+      "price": 90,
+      "place": "Mysore Cafe",
+      "rating": 4.6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/1/7d1444c9-ffb8-49d5-a9fe-f2bbccba29b5_79c1b88d-09b0-4bff-9ef9-6c1138d09234.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Onion Dosa",
+      "price": 75,
+      "place": "South Indian Delight",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/7/15/904cb824-a510-443e-a0e9-9b905a1fe3ec_20a502ee-2bc0-4cd1-a1cb-943e95b44ec2.JPG"
+    },
+    {
+      "id": 7,
+      "name": "Butter Dosa",
+      "price": 100,
+      "place": "Dosa Plaza",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/3/15/c05cf2d2-bba6-4ffa-b99b-d8a820688ea5_ca460626-9559-46cc-a775-f8b3f2254ff4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ghee Dosa",
+      "price": 110,
+      "place": "Anand Bhavan",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/207889c129a758a95a44ec7b5fc04cff"
+    },
+    {
+      "id": 9,
+      "name": "Podi Dosa",
+      "price": 85,
+      "place": "Chennai Express",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/gnttp2b8bundqr2ikm2g"
+    },
+    {
+      "id": 10,
+      "name": "Neer Dosa",
+      "price": 65,
+      "place": "Coastal Delights",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/1/98bc2db7-eb22-4fb1-b6bb-5c0191cc69cf_88de67dc-6d7e-490d-9b0e-c52bf0463eaa.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cheese Dosa",
+      "price": 120,
+      "place": "Fusion Dosa Corner",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/3/15/c05cf2d2-bba6-4ffa-b99b-d8a820688ea5_ca460626-9559-46cc-a775-f8b3f2254ff4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Paneer Dosa",
+      "price": 115,
+      "place": "North-South Fusion",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/4/15/34be3113-1f2c-4671-9a9d-0eced66ba0f1_1f77c84c-f646-4d2b-9000-66cd9d1ecd3d.jpg_compressed"
+    },
+    {
+      "id": 13,
+      "name": "Egg Dosa",
+      "price": 95,
+      "place": "Non-Veg Special",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/10/11/675f3732-2b6a-4c26-b266-b05d107bfa5c_772d6252-bbb7-4266-adfe-5c1b1f9e1695.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Dosa",
+      "price": 130,
+      "place": "Sweet Tooth Cafe",
+      "rating": 3.9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/10/29/16570b52-f0cb-468e-9611-213ef92b71a0_5e3089c9-5540-44d5-bee8-2b5ad210325d.JPG"
+    },
+    {
+      "id": 15,
+      "name": "Spring Dosa",
+      "price": 125,
+      "place": "Chinese Fusion",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/7/3/f2ed35d2-0785-40a4-9921-b982311e983f_d2e2bd66-a3b2-46d4-b0b0-d148d96b1c31.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Wheat Dosa",
+      "price": 70,
+      "place": "Healthy Bites",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/j99odftgvdwaevfzx9ak"
+    },
+    {
+      "id": 17,
+      "name": "Moong Dal Dosa",
+      "price": 80,
+      "place": "Protein Palace",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/4/30/f2df2ceb-ae3f-4be3-acde-7eb242ff1bb5_6f55f2f4-85b0-4e98-85e7-395bd1198971.JPG"
+    },
+    {
+      "id": 18,
+      "name": "Adai Dosa",
+      "price": 85,
+      "place": "Tamil Nadu Special",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/30/3b7c5b43-87d7-4593-b313-2b4ad05b6916_be432cd9-01d6-4ebc-875e-0027c5373fae.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Uttapam Dosa",
+      "price": 90,
+      "place": "South Indian Hub",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f9ab0fdc7d638cf5f4f8b1e97da64ce4"
+    },
+    {
+      "id": 20,
+      "name": "Family Dosa",
+      "price": 200,
+      "place": "Family Restaurant",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/3/29/6eb2ab5a-f6bb-4b2f-9ba1-e02e669dfd8b_6f48b251-5cca-4fb8-92f7-64d6d2c446bb.jpg"
+    }
+]

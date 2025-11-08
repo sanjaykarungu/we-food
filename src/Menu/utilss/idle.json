@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Plain Idli",
+      "price": 50,
+      "place": "Udupi Restaurant",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/3/4/2b4de1e2-377a-40cf-bee8-5d2bc0d5d398_0928dd1f-f5d9-47e8-b29f-1369503b53d8.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rava Idli",
+      "price": 65,
+      "place": "MTR",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/8/20/25270fa7-10d8-4c4a-8e59-5028504b53c0_6004e388-44e6-4ea9-ba4c-dd5a39f1ca3f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Masala Idli",
+      "price": 75,
+      "place": "Bangalore Cafe",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/3/22/e3dbff34-fc1f-4761-aa35-f06637c23408_7cec50b2-e017-4d02-99f6-8ca49cdb3a70.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fried Idli",
+      "price": 85,
+      "place": "Saravana Bhavan",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/6/13/f75ee7b6-e503-450a-927b-4127ff08b728_d96ddc6b-5a48-4c4b-a413-c92e44355f0d.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Butter Idli",
+      "price": 90,
+      "place": "Mysore Cafe",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ty2odyhw2pvbagw1g2gm"
+    },
+    {
+      "id": 6,
+      "name": "Sambar Idli",
+      "price": 60,
+      "place": "South Indian Delight",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/4/1/7383f322-a189-4cb0-94cb-6d8e6f165905_f4bc9c9f-3bed-45c0-87b3-8823b3883059.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chili Idli",
+      "price": 80,
+      "place": "Dosa Plaza",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ac3a9a29290bdc797a2778313d2de2a7"
+    },
+    {
+      "id": 8,
+      "name": "Ghee Idli",
+      "price": 95,
+      "place": "Anand Bhavan",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/7/11/65c8344d-62e9-435d-a18b-edc8cf978d8d_cd620c64-adce-4ce2-a47c-3ff92f2138c8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Paneer Idli",
+      "price": 100,
+      "place": "Chennai Express",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/moa2vdtx1zz032i76vpa"
+    },
+    {
+      "id": 10,
+      "name": "Mallige Idli",
+      "price": 55,
+      "place": "Coastal Delights",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/9/16/f5fa5c4a-b75d-40e8-bf86-2e0641e8985c_6b6ff1c0-c21e-40a3-8964-9b3b8bd00739.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Cheese Idli",
+      "price": 110,
+      "place": "Fusion Idli Corner",
+      "rating": 4.0,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2979e546c673f06f6263d160154fb3a5"
+    },
+    {
+      "id": 12,
+      "name": "PodI Idli",
+      "price": 70,
+      "place": "North-South Fusion",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/5/30/e4572225-ea59-4322-8e4c-eccaf82dcc7d_7928ae43-c3b7-4470-9ca8-ae7ed377ed4e.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Egg Idli",
+      "price": 85,
+      "place": "Non-Veg Special",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/11/28/a5c5bb23-c8a2-49a5-8bbc-287816b9fa9b_1561a387-158f-4d63-90d0-ab546285827c.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Mini Idli",
+      "price": 45,
+      "place": "Sweet Tooth Cafe",
+      "rating": 4.1,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/3/17/f4dc142c-9f2c-492c-92d1-9c2c2efd5307_1d0d0947-5f62-4822-9c68-d015e43d01f3.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tandoori Idli",
+      "price": 120,
+      "place": "Chinese Fusion",
+      "rating": 3.9,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/10/11/125cb806-05d4-4645-abbf-1ef7469b6e0b_4ce55fe0-75f7-4d79-b529-7cbe9ebd9ef2.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Wheat Idli",
+      "price": 60,
+      "place": "Healthy Bites",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/efc62fd3e23cc844aba31c84fe63f8e8"
+    },
+    {
+      "id": 17,
+      "name": "Moong Dal Idli",
+      "price": 65,
+      "place": "Protein Palace",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/6/30/3b9b5939-8577-4893-99e1-3d22b57f9767_4fd69cd5-7443-4e0f-9f79-2ac9e9468039.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Ragi Idli",
+      "price": 70,
+      "place": "Tamil Nadu Special",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/7/12/94e36f79-382d-4cb6-9321-1fe3e42174cb_49228d74-0455-42b1-b303-887c5886d621.JPG"
+    },
+    {
+      "id": 19,
+      "name": "Kanchipuram Idli",
+      "price": 85,
+      "place": "South Indian Hub",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/3/28/063fec19-2e57-4361-bff2-b023fcf52eae_34245621-f1f3-4a97-9e68-77560d781db7.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Family Idli Platter",
+      "price": 180,
+      "place": "Family Restaurant",
+      "rating": 4.6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/g31ufn09yirxbaa3bo29"
+    }
+]

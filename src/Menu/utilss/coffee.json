@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Ethiopian Yirgacheffe",
+      "price": 850,
+      "place": "African Bean Co.",
+      "rating": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.COU9nnf0FGdwC2oDCRfGdQHaEo?w=296&h=185&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+      "id": 2,
+      "name": "Colombian Supremo",
+      "price": 720,
+      "place": "South American Roasters",
+      "rating": 4.6,
+      "image": "https://tse4.mm.bing.net/th/id/OIP.qPN8efFBMTirOgE2id9mxwHaHa?r=0&pid=ImgDet&w=184&h=184&c=7&dpr=1.3&o=7&rm=3"
+    },
+    {
+      "id": 3,
+      "name": "Italian Espresso",
+      "price": 680,
+      "place": "European Coffee House",
+      "rating": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.BQ4ps9IlGDUfTFum28koywHaHa?w=182&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+      "id": 4,
+      "name": "Brazilian Santos",
+      "price": 650,
+      "place": "Brazilian Coffee Co.",
+      "rating": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.gY-lkW6txy-e8mPD6951cAHaEo?w=254&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 5,
+      "name": "Sumatra Mandheling",
+      "price": 780,
+      "place": "Asian Coffee Traders",
+      "rating": 4.4,
+      "image": "https://th.bing.com/th/id/OIP.rT-yA6yxqzXTgH-5F2lyTAHaE8?w=249&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+      "id": 6,
+      "name": "Guatemalan Antigua",
+      "price": 820,
+      "place": "Central American Beans",
+      "rating": 4.7,
+      "image": "data:image/webp;base64,UklGRjAiAABXRUJQVlA4ICQiAADwngCdASotAeoAPp1Amkqlo6iwqDj84hATiU24n+2IegUXB4swvp2Y999Zy/WLqRNF3cfBeXT733W/XDuOOed9OX949LHqp96I/d/JB5efMrHpXZYx6bWcntpnOQ/uW19oMdR4j/k8k/7L6inlrf//3O/uN///dy/cJwsSCmsWXxIKoFEBtxzmMMKpSI5d5diPlF+LZ3neiLhib4GyiasnG4t0pDIb3r9e0QQsT2j4iY6OyOD7bPwr6uWyP4IMJejAflc3uE/aO7czzIgobo3gYkxsKif1Tr6N6/+0sni++8axZTTSSeEmX4NPLP8zhH+pGEp/wOuzn0rZ5ZFxUtDtesEiUkv3tV/H9jLHWt7E3///tJQStAcmSGpFMxtjrZ6Cinyh3KaUa2oiQY0KDsSv+Vs6i3xl1nHM+cbnpe193OaluxzGp2Z6Yl6a0h88sFADp4ZjN0xBaJGQsOOwMjnKO9h/ytQKfuO10DI8pKN4mEwGM+uKhIKS3foYF0hOpMDFnSBqf4vCfsWEQlHIPj5CIQEkQCtjm6aOCBnBzktQWsMmjZirGHAyNO5316pblhduUKmeclpBxdxr33P50UjAABO4/W9VHqG2d9rL3vXSEKW4c6HTaus/xuVeircNuKU1IAC1le1yRviqy8ebTcaVUz1SYdi9VnhTnqski+JaEblMzPrcfil/loK1caL2pwt1l+VscYqeA4onbRqXIdBsk5NtnMYxctkYiTkQ8oqsVScANrl2Y9iBtr/v1kA5/Ogc0DzOACEN6BEaG9FvDVzr7nimXfjji6Zkgrd8Hp7UYa6fApDGGCipwy+yl1xEzKtO7ktiKit7t0fpN9LUKJNfJCosAyL90PHzbhq0NibMk6za52Yc5fU0OZ9yOWjhgBEu/zxV3koZ9WQlEtnnt7/tY6UmV1urbbY89P8qQc+o4lbScWcc/Hay6x3HfjmQv5gAs8CGywuRzb8DAfcb3ub41m/n+/nffe5rvs60PnSF09H0uLq2wmWoUt5sSVqsSh+LF0Bjze7kpkUm9U7B/R+nEisIPaUDJDhxBnEkUoUyAyURJjA/I8UbUqLd3Sg2eHMxn3rr3QnzOpzRQFDecAf1xjq/O9AZwPNTkpGi1WVH6kbZIz767L7BJMbtSDvxZ7a6OMRtCUF3d91+GKGXhUFpR1gPmkFJEzEX0gLh7IZNiGp/PxOlTlScFiK2n+dNnaz38KHvk+3QSZfGlOAX3Y347JUKEUB6FmM47qUV7iKokwa5fLgrksXbw4A9Je6BvyMbOR/s0zpfa2YEPtIJ8g7Xf46nZ4Ro0wNw8T4y7VI0+uQmql38Rd36NWF8tJyYxIYBdYoctD37KZKriWViJL7qmSI0Gx5C/EQcVI+mNXzeZQPOWz5j3WV9EkF3oUoGFrPyAG8T4ADmfHh7hUx70eWdgXr1U4h4jPBetkKSNWKACmZsAqCK24R5LyclJ7y01mKqxO/DJM2NPnYKbaxLmJyYPdwC0v4MvgWcfX3/cSZvYLyA1xji7knGNv0uE+DMIjCKEIGzhw8Z8iwOc/LHcajc1BNDNxqqMIJ4D0/9/WkRCQ4MZyU6LrH7hDx3sP5RrTVtHacRfZytFERCuytTlLoQOOaH65IE0+f/fGWbVXTXYaGWkG4btn/fP6fuRpDcAg/hklinILeccL1YDQlR8a4nM0dcLrTKEZb7BjfMASRFAAD+/DrrFoAXNaPftYZp8W28f7BYK9Pq3MzUHuiecI5PF7gnjQfe5uwDpS/zF847VuFUHv9Ghy/+GeyTC1c9rWeYV47l3Kpms9FsRg8VMtfBLirUhY7ornapw66yY1ydetPk8qrNm13JwoI/Yeoan7E7kUKNNI/QZXycRyhUbX5EtzZLClFTZ8F6XPVx7lw3zMddMS2ofSjqd0g6sCnWCV6LnPJ36SN74eX6X61fLcz2gbzqe181fn+CgBkMMU/1eNgJqSJ61cb8mK6E95QwK2xzbGdE9b8lWqpefsMEkdwbKIkDiiZsyKQvLhp4baH2BiCYwqgFeH5kDTvbAo95hxxJtw2zVGpnBgagpLd1wE9X5E0ERHwignFhguFAdPs2mdFx277mqSp6xsiENKWKuBsdhBI8naRMxpfR3XoUTIB3lJh3GAuD5IVg/+g1oWZHTGM6GwdDkRoLKvoLNk1/u287EPZuZczKzAh5awByvAK+FLPK53BBEAWT+ImfmE+Fhbo7wCeo/BEIv6VGDR3NahQ8f6eLruste52yLXvE91NvY7pVZF/+mb1NEXVaT3R780aU6hKanNFw1J9ZafmW6DeGFzN9CCQduD4UTOQWZAYKjS4Eq40xhRLCVxXMKeJmhEsxvPCpvIfiJldoOE5oyCc9lFJ9FS0yKAcmvHHvOXO2LymhJGwZN2DB65RtYWQ6pJWQSM28p0ai6O7bB2nbqttnURDr91kVAUXnQxhXMyKyc7fDzmnzzW4b1SJabUk3xDGkLncY0wJmOj8hZWyZQy6Bynl23V5w4bKPkW+OeYeaMarc3nTENAZVZipqyfQnlR/j/pOcVUhYFVCpn+4S7lw14iBjAuEPVavJ7rd82HaybMLmIwjt3qhPmxeCrpBWN+UvqJUA/1Xsi5ybvxML7zVtXvRl3TvNrxkUL/sFMzCxaToYzR70/DeGiWWnitoAAq5j97b6PA6fZqRKHsz2V7ihfyrR/dP7qb10X4azkoa76bl5U7hy4fbeH9YLi6fxzPuSdEIkn1QN0aSK8Bhv080Q0KYonIQlDk0X4Qp/CgUaZ/s4xO//NlrDTqm+vooxxo3Zw1ywcfoCAIe4GwsYAAnFXIemrMU7NCPKWA4OlJnTahoN9WOR+TCDRAt/5VL0HfVULCo+j26A9xGx1M/AKI0U0/cfajgCsGB2giH15p0aIWznlNd8f7KVk7HevdK5tUjsmDYXoZnmxN6XpRDdvp/k8DSVO7EBU04PSB4RV2fPCqIE5AFDo1cC/077ZSonVKLrZ7dKPRCg96qPZoZfeJ4QKEzLq0QlKCjlekcufBNigQRsLR13kJDKMZ/R+2AnG2wEdIH6x2WEEGcXZd1vVGIDK9vJk2ifvpFubnwyVOrz7y6JsVdRsHzMGG2Bs64qyHsy4f+lD/dk/jjtSvu5Pexfc3Ql4oNMBH2xOr9eTvwjIoOIXvLYKO3mMF3dOv228M7V+1iJyTqW7/653V8Kge6pOOuM86Riebjd/uXIhf2PLjcKblyiHrMwn13cJdg/M+5x6RbqCdzFM2QisDItJuPjvJtyz+vKGaQQq0FjjeAS/IFf0LY7xKHmfTNUCZySRYE/78IxXAKPXGZZFgXeWGVjaMpp9XK4r6vX9FGHagQtVgSeMU4311d/ukF3oix/TR5qGDE7eguG8Ll8FwhBMb+q/ho+EOVFBrye4UVesdXlBqaUkR2SeZYE/TiDEZYeX249eQ1PE1+cQ7nckT4y6wZqv6T/goxJyqJzqM5LFcWY31w/RLAPbU73EJOEeWDvw249BGRvrEIrtRmZRW1MQucsUIhJ1uVyCh20if6BBBd3rTe8S+1fFjWzpVi7wgcc8E9TN8UZEWv2xYSmIPJCwKJlSoaJ11BdC2SmmsinjzrcgKQDFljTrRVerZ2eDxi1EYPASuFnrL7lBW9LgqQLZ4Omz7fnxsoab+2JnbyLtyCho3o5As9DEMktNzGZVHAfaOva3KAh7KNEiM6KB+pgmOqu0H6JytmUDHOSPCkGbueNW3SzGIbQDMpUajfokTmLFm2soMl1RxBxUVGcGvNAkwk0a2CpPgEOeZjhUp2PElUAjfIhF1oiHgzfh0hOarB0aCM72I/NN2gho/p0cJKxq36xbb2nwKUMQlIxOJP2b6EEayyaBLkLYiOgvIfOqFOW1gs0esmlaKvTDz4pg0oukoY0Ot26n5z4KyH5RZDm5sA/VpukDR/h3LNFhdqPJQzQNe6xsHV7q2YxXCOXMMtcjbYDlrxZtPCjbks4Ko0omEH9YIOSi5wYtENkWzeGbvxeCgqExJcYbE8HdxZ5NSLNL7rtZV+F2XJ/BlDKdWk4kx2yvSg/7p6kZDz8s8xierBEVQvSIaXsqLJR4xopr9UTAbFpqjk1S0UCCKd7TTztIm0n7nGK+lmE0qj8OqqWg93EKrXZnOO8u0BwvzNaE9Qs5X0g4IMVC0xJHN6NXfwZFgArsrS33okbSjjZw0xIpBAAgJH8jgHBH+8x3gousfc/MBe6W5q0rWUgW9r10bRttESxZMEbWz7MYrQDn3LH1pOtA5yM+s8qx6QfqgiCBxH3Pzdq7q1WeCdvxrS1bF1VLkG7XhbR3WhToSc1KPumYjEZZmGOflJCXItkfbNsiMzf19Qc13OjLOBZQqlYWSFr0jVRY7HpYKvlmI/t0w9MpJ8RTZUqd2gndi+w3OjQgKogOsXEkafyXPIoVAWjHgDT3p1dTenfum62jnxd967689ctQr3XaZ1GopItYLuv1naI0PY49ThxqihzitjwS5ngTqCTEYZ46MGd0DoUHSxAUYonVK8AicXDOLTRkZMeeLLvdXKB/2YL5ErtamYI7Dsnc7Xr84M92tkUMWzQb2+34Aoq5OrsnY5qcLrl47pnzyylqvOgktO3dchZ1yPh+zyI82mHvcvmkI3P8ynp2ySryL3jc8yt2MkFT3XeKFUQB5opVoFX6opjQ68JW/Y6MJ29mTgn6kKsLkNrw7+lG/AVDNsNCFZM0UldgeBgkEaIDLdmTAGSRPmAINsAtde1DhsJvmOffqT6bprD5OMqmwnT7ELv/VS/WAUJnRPtoP8KFyziSnFXfpbqUSZOXhxt4NvqUTJKlALeecZPXxKRLV1OfRk3sKlpd0eDSmcq77w4E+8OlCfBbWPcTsRA8CNAeC4LjeTnjhfeQJ1bMR4lNjzdOCvpHUj86qk+ZBip+c5yRJNcKSTK1orCLCro1n4sZs01ekXN387FYFSQH4wOU0mSlnmLWWNutJq9dEWNT13T/7+UBte/jFpjpTXnv0GcfVUuCiosnWFtofP9b4PdpoUX1E64iDAYvJoeyFJfUKWWdldVg4Cn2iShcfvsknxb2lXvZTTwuwpPjWcY28nHPxfWV+LZnKAxLoJGg6rGS/s/IMdTfcdQe0DLQ71ZX/m0LynxX4SITgOF+0BlSVNYRdEf5UcJaHeLE2DrLU1A1MSWnrHXaSAJtnFINsEbyNlFGTFMaxuWCYsqYa5BVaysFWstNRcFjFgtdOF7ldoIEX/jjfLdfPVy58PjHC4GXCiO10YeI78sGirAVtnAaRtJwGxbwQCu2yPgAII6VIN0ffpQzMZSNUmhcmB3v5fH8V90POhQU66y70m+ax26Zsi37khJCOM9NFitW4qraho0BhflAACGMtXNWJRYh+S6hvYisffpf7ALucJyyh/2OgSh3/sQodF5eUjdcZgM3frsrMSbMUd49bSr3lNBaUjXQ2hktFVqmtYkr0pgppO2Jg/t+ebHEuYtMsc18CT39Wwzw37H1D8+YAqmD2fQ5KOdj71Vz4sBjJNn+UVC1bAo5hqaRzNSUeb3xIV8pX/ei7Cp2jE4Gco6i4vtEcKtozfAEwK5085We2ojfp1ddk9+RQRzvE/2BiRZJyYBCCG9ZtBRj10znWXjgNs/Q89nKzhEoCsTiih2FKv0JseRaffOewuOv7vgSaBdkIxeG9zyxdlXz63nNc94QzznvgHqPE+5p1yUKDka3RxgBxxvcR5Ng5/HBm0YaWMYMOZsrk0WFj6LLjyeBYDYUsJGa6oLKtlTCYDmeDNmXifrQNBckZmXpASZ27CF1QM+e2hDT0E3o/oEf2PfgBj7kMURBdXCa/mMhHvW5azw5zLn3//Xz/SRmWt2dra/dvlrvu7zJ5b1GOK+b3z7Ub+OGAMxlhxAeaBQKOh0WLornMG8dBolod/c2XUl0Sc8I6gcwOC3bCo9qsXHdA5nVrEXRKkt3UvA1TPdJ9L22twTOF77AUZGmOwDpAg+Wq8XOVI9c62W/dPrNTwrLGSNQ8pumRul/y/G5N8rOqFnrUH1JynVdNS05lgSU/rhWTwZIla7L2pZeCKuwpvEZSlYUu6gu8+0R5AHY1HGd89He6l+sjaoarX0R9Msz7INqLqjOja6UuJanRGKxibC/BaV0K/WswVq6UGM0oQFtj/7l94CcamXtMIqJ4VEMBE0oj+GrXkEMn2L9uI4PoNOi3pDP+QxA8zTjcyNuGJ/tGz7KmHifG2o4ELfgS/WhOpGTqbkaCMTOXvn9RqxJAQqfBBJXTt6q7kjF4NC6xlyfrZ5ICghDfVEilkk4fGBXI36KjPnIv1Wp4/QlchuDV6/9k5i3eUaeooDQ+GCripnzaCa37JpwH0Wsqwg02Kq64IGIcV5jAiulrSmPajWysYcIa7R6DmKOy87hjjR+tsZY9tYSl6tF3C0BPdfxl3Ez8If3bfuzjT2kGvVk7nkhY0G7q6uLHE2Iq6yMOrLuuoFul6nHyf0xK3N23C92GzFxzcMzWFVaY5RlqK+kMnMf9bjGGHnM7Oa8uqTaWaDz2PhtrH76y8hT6pIkXvUe376pXe2BqFPZFQEQfzrKq/3M8ZhEHHgfPIicz1VDLHsgM1xoBIkvVlIGzaC2qKPes8Ak5nUyrM3IneQ77Xlvrreli9H8LbSIE4Xa5rT5UYmWDMc3/y1FjpnY0ZEIctyQV/e8twD0vnpacgRhdQ54o9+Pxt78CkkPPabE25hWa8Ueo8UMEuj9zZf8j2nRP2uZEi7inSfUbeMGzlH5ZqX2oQl/r/x/5h8x1PdHqHuTaptRxdqw/xcjxLlqkyc+cjqtn54sha8rEqUegfGZvDrC14Bw+o8b+60aNMuoAZJCNkueokpQDpwj1vxeeTW+0L1Vtnq61/ApUPzbGRrXhf86C+HZHzOGDm7jWgRUsPaONcEWit8uStop9xRdS569zNKqvxrW5VnY3Xi/JkvSrZbJw+8TL3KsuXGyNZoaZsoxfWff1ck24NU0tcMqUD23h6kOBFqHlllJ8jgzG3vwpNE97tEfMIAKwQH+uW5EUJ19ac8xp7xeQXh2/6OCkwenUaYVvN5Y5Th2sim0VzzgNNtXMV4UQ8wEBE0mWq2h54VE0+u0GQTfh0UVos74DafDz1crYIveMSleCKrIaXEbrWhJc1kHerkTjweaWmLpIoYm2esHSMGJ9rVTHROAtEF7IE5fPSQu/g2fAVkGTZnTYqXfm/zfocYlGPRyb4iVRVjskZXOOdE4unu/Q5cpMxadPyINYiv/DlsJ+n6tbs5dwY8Sr2AmWc0Htfv7P1iDZZAMN5JwFvyg0PyRHX6zzYQVEnGJvQJK8rXddu5tNrv7rht0TTwEtGv29FO3xtXKYsDQPOwj6mzMqxgFUv0UNBvfxwajk+/4o3CJ3dIoIHRHxsBSUd49mlN4nYo2cp1HpGae+mxrsgkq4zCSzm//LPr3Wrmi4xE13Qj0UAmWSAi59lexJxR9d/+sLx+fjf8gukYMHq9s+J6IZRJSBJ476vdvncloS/4aILgQPT9j/AnDxImB4ICRP8J1dBABWjE7TW5p81Nc59GCESwsOMuZ4AKaj81KhamnJbKSagZbdvEplUf8ahmfKGksQzuGslFYgfUG7TRLqThzv9VKVnTbjlO0dC5W4hZdI14iT8Ha13aKSbp7SJthMeMatQEAIdvDnh2RouQuAqj0toFTUPutuTAnKgtar/5BNUBYEprOE2IVCJtJHq6w7f7UStKRYU5arjOnAQyST8rhMhb2Ai7G0TRYcQdSDKWL70v+Vn82vVtv6lzUw9ltdCx5E+3HEwgZntECI51MtKHL4LRnLlKQSrrggYoQP8arLKBrNT2QtVkyqp/MjEGH5lO+u9ckwf9UyB2LLRktJNIdaLqjGdEuIgtQNnwUVctE4H4W5wtghbfTVWV9OMWHRsPVH3y971fJEfDHun4rDydzkLbESaaPbr9aOhJChKqQP30gdXqZE/f723N+nQNu8r8x36gvV9O48bfw+cUj7r6rwcpL/mR8b/AUcBPvmLMWZqu8Hp/qdliKDcGO5fhbGsqGRcR7bfH8f0zSSr/wdxUbFufZAvVnckJJ9r6vMoeJ/Uo2p9XoDOwCvk4Y5EAi2j7o7+URdVfhD7xmAA10Qm5ucBNraTFxX+8YsRnc04HhPpg59WafHzFnS8+zvg/bo/NUfomgr1f+Fn9mmYu7dgXomXnVww78vd5ohkmK/uyq/wki4dx2Jb2Qcvh9l38IoecJRDiUj7i1WeA46vlc3/yCymHVYkucVIyW4wdSPeFwFZvjDUSuX8M2QV9RQIXmODH9qNozTRHOfkyhG2vdwiS/PUQw4taw5g3pLilyIxFmcqaACPHYk3XOhvZWgpl3El/BeN8eN+51O2s9nauQAf8eWaKmJuDrPmnAfOSnSREcVz5T5uU54PYQTt87QFZ2CSfgcmW+gBb0UGkEALsP0B/WqXXqs5+E65np5QyYUswybSRrza5qVz7acN53Z4Dn6VCCTsJfY064AZLZ2MBSuc4A09dX/V6eOaBLynFxTB0pvZV1YUQun9Vwdpe1XLoOrGSmBDiawzCu6wrlgkWUi5ir3HFnwwWSK1wenLxzo2gSkXEfeT1VMfaMewdDtqzDusYgKXmNSFKOK3d5DaJOpeYmDgGYCWjoU4dk5S+PgSo9q24+4ZMhIQNk530leziHUjvdx4PlBCFinqJ6jt+acHYynRlJJW1aME++riHELoIZhXuB7O1uP3TiH2pf3JHRUkTl44NM+1PBDzN2b3VamdhVNSR0bTYOCB9GCWC2mtkofcfqZHMDKm2xJ0czz9DwGV2Fcdj+kxnv/oTQhKVjN/SpaCfyUDtLoU7BAkpWdJi5rHisVWbZ4vSxwlExf8GzhARTGnF09g30cH00KgKdMf2MR8a245Q+4GBzi+nWchThkoOoVLRZuUDpQtheDK5dDnyvFerKkSH2IIVNDBgtbQ0P4lU6m0fEeNSHIss0FjLEXZW2TFUNDv3nNBS5DSewswJjBLDfCyQCtCkfEVd3JT39ehTIAFgoYmSXIcMVYXgKM6d0zqEbmI5WxQ5GR/YKq3CZr9f7M0zZB508i0+JQ4kgoLJAaybo8tbhB9Z8MPTUKDeSXgq+sseL7KdahdocHBFFElzccR2DQqqL8lTHcelGfRzCRTQgXAgtjTN2vMg1sgvuOCmZTi17h9EnBvOqtpz3/ucfGrLrWbWuM5C2FiuuKdZne84swWOKvS0Ljxr4vo6iSb/Kw2Wm+6CrYWAkisxsnqJUMUD6N9WpJqFz7QpSD814U6R4sZzUSt8xmFuPgsgcbDnW8z2/eQDPv9fa9Iva4A2YVQgjxyMHHQCoD9t6xkN19oB8FJ01sXei8b3hsOlzAC7mISCDHgREUbvqVMlGI/MDAyx68xX7RsefA6fojNj4CbYnisPn0G5onqpRvKAJnsJrBaJoRIOC2voseHImmVDGxlHe3OPhaAMxULkwJfqNJfctwUoxGpUAxzxSPUNvWvWNcQWNmMRSlf6hIq+/4MGscfF1jGDz5hXqIIR+WxAOkEdU88TVMCjjnP8oLp9cKiYRJZrF3v8oydAozRilbklZJUjta+qa6mtA2dvYVBt/rEjtuLFXMdFH8Rac996QWg8thkbDX0CIAsvEU8VlZ7WhCMgF8XiQg0p2Hb5PRsS1YitKbU10D0oday2APGMOki84M04k3JWsBtgMnGOWx3LfnQaz+5X+xR6DcBW+30kkLtuda9Vx4qZMhMu2WpsIh+AeZV7Gkh5+qBkU1Pn7QRCzTqOy4NSTpJwJX9tWAgc6WkRpEGKyV+gx8ddgglJmScC55iyCAsRmfORo6BtzvXoLzNMAhHB3oGDxRCJmXx8vYxrqS1mmuk92N/+nCXaIMUvoVahUzSEc7DEMQPkl8VoErLon+r+LRz59VCHWYs84Jrbrz/mG6mq/d4cfmf1BXBsSXI/RBErNZV63gQSXX/yzFwPTGGqB9rIeyqOiCBFu6WwkqjPA/1b/jJg7rj2eWTmFGSA47GX/FqKRHq6OMOsB9KhDoUwc2ilSIzyeXYfsv30lrgZCFJCkprcPK2gK+9w4ISEl61LbhfVEgrCtOuhhU0LpY1wIfm1wvssIDeKwCjOTAQb7VFSETmuCdXBrvQFN1bvLS9fWXK/tTOmy0hQ2YJNMiZ3CA7pj6oM0cMrO7v0VK2gnXzyM3BIfMBD7UjBvf7KiqAJTSLft9vY45tL+kQ20QbCsnXuOLvrzWRUjBKm2Arwp+1U3Qq8a/nfZkaP+MY7QSQ94r9T8YlBJgsd7VXoOvo3zc7tXT7LUf2/1lQhdoDt29lZIsGr6ZQTvoX9rhZOwLoiHpxtBdZyOk+DmIwvk99hiugyMstQIXYRX89fA39C8inslLwVm+xMQWKUv2RJd3+ajuzgxm6KEpQacOgPH1v8Dr/UUfwYJP0b7hT0ZlM3EUagwwWubWdIH77m7u0O43Q/xNDpbq+KPp+RANEXcycY4csSKixOyBw21pNU8JTlFWj5jXISUtBzQg9lRfhOqelZUrhzDS6Ktwfqj+ovcYB9sQW0eXzdNq4utP6Qqw/4AN4skaWKSFEpYNVYdEp9CYNZH4CK2kJCWbmn/6vFCPqiaw5hezrncBC4Tgvc7Po1Vg8Xy4CfKT4C9RD2Sr7v7lkKZ3OquIc3esIcRIAuhfg1u4zgFOWFGgX0hcfjPxLaOSSP80G5uhD3ATzN95bPZQJb/qfRYNYYAyJ8WURQjPEMAySX14OcnVOsj0i1tmpVXxUP94uHEYn90A6MdssV0TSDUc6DmPj8jmEpx8l4WQywWg7QG5Yuvu45kzHbIEnQ2nX+XSvSVni3RqGGV9jKfJWVqIjhLvRuVRvM130uRuLKFXeLjmNe6zMcqqeeYL0nOuWBZV14DIq2lPtwZbusGzWYi0jxPaSCbZNLCv3aw0pIIj6wJSxCcJSiiuATfWpq+bHFaL0sK9qeJu1iK629rMkeURn85l8y1mzKv+G7U9T9hqKD9aJN4Weqqy5iFsyRHMfUzo79VH72OUHP8J/kUq+Yc5mk1S7ah+dQ8ieus1I+M8qGw8Qv65tXcJ2+vpxQJOs51WxSJhz/z45/+s1t6+DTU0kwZo1Dd8eusyiF+YlqNtiWLmJpLisAT1Cc+qEi2JRvpZfeafktO24BdoTGGKZZy7xfLW+Ht/xBEAXoy4DIsxwjUjQB2b4+GsWZVJajTBMcwIj/yFvd7MLWNGCqMX9shxYrz7XpAIOiIu3gmeji0k6vaAMjzHcHniMIrCNf9AC21aCo3j/GBrgRyNyGUiLAVLgaCJDorlQhKLbw+50/eARV9e4cNgQIuub5FyfjycPzgbDl2AU9tLA9KAxXjit0ktEvM8QAfRHWCzQhafwb42HiYuF43jwyrYFCXRcNr/H/L7kZL9LEvL1AQ89+8wnj59Ris1yFzHnB+RnnzargqnsPFM46AeJdfV44+gQ4sutELTAwWtXShrJ3h4qMCY3AnanDTfhNs/xrhQl8ORg1boX2mgG8T9ewvK1iHQy9eCH2mLBzjhSYjAVd8XcSdmoQ9cYKH1f1OYr2gFVN7XSn2+N83F0o+ETHcf9VbfwvAKMqXzJ1VXBXjeY9oQHiaNMwCv3KjqncKo4lUg5XaYzYAAAA"
+    },
+    {
+      "id": 7,
+      "name": "Kenyan AA",
+      "price": 890,
+      "place": "African Bean Co.",
+      "rating": 4.9,
+      "image": "https://th.bing.com/th/id/OIP.ZR3vm-krziycDO4p_JDEXgHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 8,
+      "name": "Costa Rican Tarrazu",
+      "price": 750,
+      "place": "Central American Beans",
+      "rating": 4.6,
+      "image": "https://tse4.mm.bing.net/th/id/OIP.MXJ_ffSBfQP-OC0WpLE5OQHaE7?r=0&pid=ImgDet&w=184&h=122&c=7&dpr=1.3&o=7&rm=3"
+    },
+    {
+      "id": 9,
+      "name": "Hawaiian Kona",
+      "price": 1200,
+      "place": "Pacific Coffee Co.",
+      "rating": 4.8,
+      "image": "https://th.bing.com/th/id/OIP.c0DjOM2I38swEknI94h0MQHaEo?w=208&h=130&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+    },
+    {
+      "id": 10,
+      "name": "Jamaican Blue Mountain",
+      "price": 1500,
+      "place": "Caribbean Coffee",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 11,
+      "name": "Mexican Chiapas",
+      "price": 620,
+      "place": "South American Roasters",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 12,
+      "name": "Peruvian Organic",
+      "price": 690,
+      "place": "Andean Coffee Co.",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 13,
+      "name": "Vietnamese Robusta",
+      "price": 550,
+      "place": "Asian Coffee Traders",
+      "rating": 4.2,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/12/7d556647-afe2-491c-a9e4-44b55d2e1a5a_97a224a1-1880-4ad6-b2fd-7204de87d1b2.png"
+    },
+    {
+      "id": 14,
+      "name": "Indian Monsoon Malabar",
+      "price": 730,
+      "place": "Indian Coffee Estate",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cb0kmlqdl0kjiri0qii9"
+    },
+    {
+      "id": 15,
+      "name": "Tanzanian Peaberry",
+      "price": 860,
+      "place": "African Bean Co.",
+      "rating": 4.7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/4/633f4433-7d5b-4a03-8f86-013cbc5ae8e5_35238b2f-bd1f-4a3b-bdea-10abd8c0d907.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Nicaraguan Maragogype",
+      "price": 790,
+      "place": "Central American Beans",
+      "rating": 4.6,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2025/2/13/c0c1842d-224c-4aa9-8bca-6d3c60e2e68f_c17193ed-46d0-4d6c-afa5-5f6d728dcbba.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Ethiopian Sidamo",
+      "price": 810,
+      "place": "African Bean Co.",
+      "rating": 4.7,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b170b360304e85bd9bc8bff5e0401220"
+    },
+    {
+      "id": 18,
+      "name": "Cuban Serrano",
+      "price": 710,
+      "place": "Caribbean Coffee",
+      "rating": 4.5,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/FOOD_CATALOG/IMAGES/CMS/2024/12/29/0efd5273-05c9-4332-946d-09d6fec41a5b_710994c7-5ba4-4693-b2d8-c9e84caada2c.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Papua New Guinea",
+      "price": 740,
+      "place": "Pacific Coffee Co.",
+      "rating": 4.4,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ezxy8qq69etfmcgfmkr4"
+    },
+    {
+      "id": 20,
+      "name": "Decaf Swiss Water",
+      "price": 680,
+      "place": "European Coffee House",
+      "rating": 4.3,
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/voxgcne2vv7rdoazvzwk"
+    }
+  ]
